@@ -1,0 +1,1 @@
+comprar pan [hecho], llamar al dentista [pendiente], entregar reporte [pendiente], pagar luz [hecho]
